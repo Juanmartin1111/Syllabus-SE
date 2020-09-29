@@ -1,12 +1,12 @@
 # Syllabus-SE
 HTML and CSS with the new syllabus
 
-<!-- Juan Ramirez
+Juan Ramirez
 Date: 09/29/2020
 Class: Software Engineering
 Project: Syllabus website
 email: juanmramirezmejia@lewisu.edu
-Professor: Eric Pogue-->
+Professor: Eric Pogue
 
 # Content from the project is original
 
